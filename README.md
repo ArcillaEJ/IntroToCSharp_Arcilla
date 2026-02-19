@@ -1,4 +1,4 @@
-# Prelim Activity 01: Codac Logistics Delivery & Fuel Auditor
+# ITELEC2 Prelim Activity 01: Codac Logistics Delivery & Fuel Auditor
 
 Name: EJ D. Arcilla
 

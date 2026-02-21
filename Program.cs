@@ -5,14 +5,7 @@
  * It is a C# program in a console, which monitors the monthly fuel costs of a delivery driver, weekly. 
  * verifies the amount of distance covered, computes fuel efficiency scores, 
  * and establishes whether the driver was operating within the weekly budgeted amount.
- *
- * Concepts Used:
- * - Data Types: string, double, decimal, bool
- * - Console Input/Output
- * - Input Validation using while loop
- * - 1D Array
- * - for loop
- * - if/else statements
+ 
  */
 
 using System;
@@ -131,3 +124,4 @@ class Program
         Console.WriteLine("\n===============================================");
     }
 }
+
